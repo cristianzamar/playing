@@ -1,0 +1,20 @@
+{
+  "name": "playing",
+  "version": "1.0.0",
+  "description": "repo temporal para pruebas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "python -m SimpleHTTPServer 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianzamar/playing.git"
+  },
+  "author": "cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianzamar/playing/issues"
+  },
+  "homepage": "https://github.com/cristianzamar/playing#readme"
+}
